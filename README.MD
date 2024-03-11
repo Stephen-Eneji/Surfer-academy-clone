@@ -1,7 +1,7 @@
 # Surfer Academy
 
 ## Overview
-Surfer Academy is a dynamic and user-friendly website developed by Cyberinfomatic [Stephen Eneji]. This project embodies a seamless blend of modern web design and efficient functionality, tailored to meet the unique needs of [describe the client's niche or industry, e.g., "surfing enthusiasts and professionals"].
+Surfer Academy is a dynamic and user-friendly website developed by Cyberinfomatic [Stephen Eneji]. This project embodies a seamless blend of modern web design and efficient functionality, tailored to meet the unique needs of our client.
 
 ### Key Features
 - **User-Centric Design**: The website boasts a visually appealing and intuitive user interface, ensuring a seamless user experience.
